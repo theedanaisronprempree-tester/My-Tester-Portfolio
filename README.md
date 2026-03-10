@@ -1,6 +1,6 @@
 # My-Tester-Portfolio
 # 🚀 QA Engineer / Software Tester Portfolio
-สวัสดีครับ! ผมชื่อ [ธีร์ดนัย สอนเปรมปรี] สนใจและมุ่งมั่นในสายงาน Software Testing โปรเจกต์นี้รวบรวมผลงานการเรียนรู้และฝึกฝนในด้านต่าง ๆ เพื่อการันตีทักษะการตรวจสอบคุณภาพซอฟต์แวร์ครับ
+สวัสดีครับ! ผมชื่อ นายธีร์ดนัย สอนเปรมปรี สนใจและมีความมุ่งมั่นที่จะก้าวเข้าสู่สายงาน Software Testing โดยได้ผ่านการอบรมหลักสูตรเข้มข้น และสร้างโปรเจกต์จำลองเพื่อฝึกฝนทักษะ Manual, SQL , Automation และ API ครับ
 
 ---
 
@@ -29,4 +29,5 @@
 * **Automation:** Robot Framework, Selenium
 * **API:** Postman , Swagger
 * **Database:** SQL (Microsoft SQL Server)
+
 * **Others:** GitHub, VS Code
