@@ -30,6 +30,5 @@
 * **Automation:** Robot Framework, Selenium
 * **API:** Postman , Swagger
 * **Database:** SQL (Microsoft SQL Server)
-
 * **Others:** GitHub, VS Code
 
